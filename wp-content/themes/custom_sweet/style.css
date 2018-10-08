@@ -1013,3 +1013,13 @@ img.logo{
 .list-group-item{
 	text-align: center;
 }
+footer#colophon{
+	background-color: #343a40;
+	color: white;
+	height: 60px;
+	margin-top: 50px;
+	text-align: center;
+}
+.site-info{
+    padding-top: 20px;
+}

@@ -18,7 +18,7 @@ get_sidebar();
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
-		<div class="col-lg-12">
+		<div class="col-lg-12">  <h2>Todos los productos:</h2>
 			<?php
 				$args = array(
 				    'status' => 'publish',
